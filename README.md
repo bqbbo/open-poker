@@ -1,3 +1,3 @@
-# Unfair Poker
+# Open Poker
 
-A self-hosted Poker web server that allows the host to do some interesting things.
+Self-hosted, open-source poker that supports multiple variations, tournaments, and more.
